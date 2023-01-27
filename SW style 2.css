@@ -1,0 +1,38 @@
+g{
+	color: pink;
+	font-family: monospace;
+	font-size: 50px;
+} 
+b{
+	color:#FF9F01;
+	font-family: cursive;
+	text-align: center;
+}
+k{
+	color: white;
+	font-family: monospace;
+	font-size: 35px;
+	letter-spacing: 8px;
+	text-decoration: underline;
+}
+div{
+	box-sizing: border-box;
+	background: light pink;
+	border-style: dotted;
+	border-color: pink;
+	border-width: 35px
+}
+y{
+	box-sizing: border-box;
+	background: light green;
+	border-style: groove;
+	border-color: purple;
+	border-width: 2px;
+}
+j{
+	box-sizing: border-box;
+	background: light brown;
+	border-style: dashed;
+	border-color: brown;
+	border-width: 5px;
+}
